@@ -1,1 +1,7 @@
+numpy
+torch
+tqdm
+tensorboard
+torchsummary
+Pillow
 mtcnn
