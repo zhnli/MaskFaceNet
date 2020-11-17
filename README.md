@@ -15,4 +15,7 @@ https://github.com/knazeri/edge-connect
 
 Jupyter NoteBook scripts are included:
 - CS230_FinalProject.ipynb : train and evaluate models
-
+- models.ipynb : models for FR
+- loss_function.ipynb : triplet and quintuplet loss implementation
+- face_loader.ipynb : data loader
+- crop_face.ipynb : crop facial images
