@@ -1,7 +1,6 @@
 numpy
-torch
-tqdm
-tensorboard
-torchsummary
 Pillow
-mtcnn
+torch>=1.2
+tabulate
+tqdm
+torchvision
